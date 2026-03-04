@@ -1,2 +1,1 @@
-# terms-and-conditions
-TnC for Key Launcher
+Terms of Service for Key Launcher
